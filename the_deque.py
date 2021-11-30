@@ -9,6 +9,8 @@ waiting_list.append('Ibrahim')
 
 print(waiting_list)
 
+print(waiting_list.pop())
+
 print(waiting_list.popleft())
 
 # clear the list
