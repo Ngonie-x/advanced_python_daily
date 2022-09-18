@@ -2,7 +2,7 @@ import bisect
 
 
 farm = sorted(['haystack', 'needle', 'cow', 'pig'])
-bisect.bisect(farm, 'needle')
+# bisect.bisect(farm, 'needle')
 
 
 class SortedList(list):
